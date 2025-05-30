@@ -61,7 +61,8 @@ Este projeto foi desenvolvido como parte do curso de Ciência da Computação da
 
 Você pode visualizar o frontend em execução através do GitHub Pages:
 
-🔗 [https://braanco.github.io/front-andino/](https://braanco.github.io/front-andino/)
+🔗 [Clique aqui](https://emanuelvieiira.github.io/chile-tours-frontend/
+)
 ## 📚 Conhecimentos Adquiridos
 Durante o desenvolvimento deste projeto, foram explorados e aplicados diversos conceitos fundamentais da área de desenvolvimento web, com foco em práticas modernas e integração entre tecnologias. Entre os principais aprendizados, destacam-se:
 
