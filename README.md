@@ -6,10 +6,8 @@
 
 ## Status
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge) 
-
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
 ![Universidade](https://img.shields.io/badge/Uninove-Projeto%20Acadêmico-2A5CAA?style=for-the-badge&logo=graduation-cap)
-
 ![Versão](https://img.shields.io/badge/Versão-2.0-blue?style=for-the-badge) 
 
 
