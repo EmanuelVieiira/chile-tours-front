@@ -16,7 +16,7 @@
 ## Sobre o Projeto
 Chile Tours é uma plataforma web inovadora desenvolvida para revolucionar a gestão de serviços turísticos no Chile. O sistema oferece uma interface intuitiva para agências de viagem, operadores turísticos e viajantes, facilitando desde o planejamento até a execução de experiências inesquecíveis.
 
-*⚙️ Este projeto conecta-se ao repositório  **[Chile-Tours-backend](https://github.com/Braanco/backend-andino.git)**, que contém a API e a lógica de negócio para gestão de dados.*
+*⚙️ Este projeto conecta-se ao repositório  **[Chile-Tours-backend](https://github.com/EmanuelVieiira/Chile-tours-back)**, que contém a API e a lógica de negócio para gestão de dados.*
 ### 🌟 Por que este projeto?
 Este sistema foi desenvolvido como projeto acadêmico com foco em resolver problemas reais do setor turístico, aplicando conceitos modernos de desenvolvimento web e experiência do usuário.
 
